@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.26.0",
+    "iron-session": "^6.0.5",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sass": "^1.49.8",
+    "serverless-mysql": "^1.5.4",
+    "swr": "^1.2.2"
   },
   "devDependencies": {
     "eslint": "8.9.0",
